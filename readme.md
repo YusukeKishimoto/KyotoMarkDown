@@ -12,7 +12,7 @@
 ↓【徒歩 約30分】
 - ホテルサンルート京都<br>
 <br>
-![map1](八坂神社～清水寺.jpg)
+![map1](yasaka2kiyomizu.jpg)
 <br>
 <br>
 
