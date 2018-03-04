@@ -1,4 +1,4 @@
-![JR](キャプチャ.jpg)<br>
+![JR](キャプチャ.jpg "JRTimeLine")<br>
 
 
 **1日目**
@@ -12,7 +12,9 @@
 ↓【徒歩 約30分】
 - ホテルサンルート京都<br>
 <br>
-![map1](yasaka2kiyomizu.jpg)
+
+![yasakiyomap](yasaka2kiyomizu.jpg "八坂神社~清水寺")
+
 <br>
 <br>
 
